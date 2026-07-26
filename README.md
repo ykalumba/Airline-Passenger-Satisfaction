@@ -6,7 +6,7 @@ This project performs an end-to-end exploratory and unsupervised learning analys
 
 The analysis integrates Exploratory Data Analysis (EDA), statistical inference, feature engineering, dimensionality reduction using Principal Component Analysis (PCA) and K-Means clustering to understand passenger behavior and service quality patterns.
 
-###### Dataset: https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
+###### Data: https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
 
 ### Exploratory Data Analysis (EDA)
   The dataset was inspected for data quality before analysis.
