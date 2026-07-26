@@ -39,11 +39,11 @@ Clustering Pipeline: Data preprocessing, Feature standardization, PCA transforma
   Reduce feature redundancy, capture the majority of variance using fewer components, improve clustering efficiency, and visualize customer segments in two dimensions
 
 Some of the libraries used incude: 
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-SciPy
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,
+Scikit-learn,
+SciPy,
 Statsmodels
 
