@@ -8,7 +8,7 @@ The analysis integrates Exploratory Data Analysis (EDA), statistical inference, 
 
 ###### Data: https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
 
-### Exploratory Data Analysis (EDA)
+### 1. Exploratory Data Analysis (EDA)
   The dataset was inspected for data quality before analysis.
 
   Activities included:
@@ -16,13 +16,13 @@ The analysis integrates Exploratory Data Analysis (EDA), statistical inference, 
   Missing value assessment and treatment
   Summary statistics & Feature selection. Univariate, Bivariate & Multivariate Analysis i.e. Passenger age distribution, identify relationship between between Age and        Flight distance. 
 
-### Statistical Inference 
+### 2. Statistical Inference 
   Several inferential statistical techniques were applied to validate observed patterns and determine whether differences between passenger groups were statistically         significant i.e. Chi-Square Test of Independence, and Two-Way ANOVA to evaluate both main effects and interaction effects.
 
-### Feature Standardization
+### 3. Feature Standardization
   To ensure that continuous distance measures do not dominate metric-based algorithms like K-Means since variables were measured on different scales.
 
-### Customer Segmentation using K-Means Clustering
+### 4. Customer Segmentation using K-Means Clustering
 Passenger segmentation was performed using the K-Means clustering algorithm.
 
 Clustering Pipeline: Data preprocessing, Feature standardization, PCA transformation, Optimal cluster selection, Model fitting and Cluster visualization
@@ -32,7 +32,7 @@ Clustering Pipeline: Data preprocessing, Feature standardization, PCA transforma
   * Silhouette Score
   These metrics balanced cluster compactness and separation before fitting the final model.
 
-  ### Principal Component Analysis (PCA)
+  ### 5. Principal Component Analysis (PCA)
   To reduce dimensionality while preserving the maximum amount of information after standardization.
 
   PCA was used to:
