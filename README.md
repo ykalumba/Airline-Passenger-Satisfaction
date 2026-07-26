@@ -31,7 +31,7 @@ Clustering Pipeline: Data preprocessing, Feature standardization, PCA transforma
   * Elbow Method 
   * Silhouette Score
   These metrics balanced cluster compactness and separation before fitting the final model.
-
+ 
   ### 5. Principal Component Analysis (PCA)
   To reduce dimensionality while preserving the maximum amount of information after standardization.
 
